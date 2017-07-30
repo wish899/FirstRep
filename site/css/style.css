@@ -1,0 +1,20 @@
+
+*{
+	box-sizing: border-box;
+
+}
+
+h1{
+	color: magenta;
+	border: 1px solid black;
+	font-size: 2em;
+}
+
+p:hover{
+	background-color: orange;
+
+}
+
+p{
+	background-color: blue;
+}
